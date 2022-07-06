@@ -1,0 +1,4 @@
+nic
+take
+len
+test
